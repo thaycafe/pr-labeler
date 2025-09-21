@@ -1,0 +1,6 @@
+name: "PR Labeler"
+description: "Manage labels on Pull Requests (add, remove, replace)."
+author: "thaycafe"
+branding:
+  icon: "tag"
+  color: "purple"
